@@ -1,0 +1,5 @@
+Search Query,Documents containg term,Total Documents(N)/ number of documents term appeared,Log10(N/df)
+Canada,37,27.027027027027028,1.431798275933005
+rain,42,23.80952380952381,1.3767507096020994
+cold,8,125.0,2.0969100130080562
+hot,8,125.0,2.0969100130080562
